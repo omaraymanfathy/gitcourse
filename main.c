@@ -1,2 +1,1 @@
 printf("omar");
-printf("omar");
