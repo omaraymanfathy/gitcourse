@@ -1,2 +1,0 @@
-printf("omar");
-printf("omar");
